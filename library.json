@@ -1,0 +1,15 @@
+{
+  "name": "RGB2026",
+  "version": "0.1.0",
+  "keywords": "RGB, LED, driver, KTD2026, KTD2027",
+  "description": "Arduino-compatible library for the KTD2026/KTD2027 LED drivers.",
+  "authors": [
+    {
+      "name": "Alex Polesskiy",
+      "url": "https://github.com/apolesskiy",
+      "maintainer": true
+    }
+  ],
+  "exclude": [".github", ".gitignore", ".pio", ".vscode", "lib"],
+  "frameworks": "arduino"
+}
